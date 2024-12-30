@@ -29,8 +29,8 @@ conda env create -f environment.yml
 ## Structure of the repository
 The repository is structured as follows:
 
-# Running the project
+## Running the project
 If you want to replicate the results of this project, you can run each file separately. Each file contains the code to run the different methods for hiperparameter tuning for each model.
 
-# Results
+## Results
 If you want to read more about this project and the results, you can access the following github page:
