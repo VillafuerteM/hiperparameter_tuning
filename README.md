@@ -33,4 +33,5 @@ The repository is structured as follows:
 If you want to replicate the results of this project, you can run each file separately. Each file contains the code to run the different methods for hiperparameter tuning for each model.
 
 ## Results
-If you want to read more about this project and the results, you can access the following github page:
+If your objective is to read and learn more about hiperparemeter tuning techniques and the results of this analysis, you can read my notes in this github page:
+https://villafuertem.github.io/hiperparameter_tuning/
