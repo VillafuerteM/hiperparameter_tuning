@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hyperparameter Tuning Techniques",
+    "section": "",
+    "text": "Objective\nThe objective of this project is to explore and test the performance of different hiperparameter tuning techniques for linear models, tree based models and neural networks. The aim is to show the use of each technique, determine their pros and cons and leave a functional code that can be used as a base for future projects.\nThese notes assume that you have previous knowledge on linear models, tree based models, neural networks, their parameters and hiperparameters, and model fitting. It is recommended that you go through some bibliography about these topics. Nonetheless, the notes include a brief introduction to each topic.\nIf you are new to these topics, you can go and check out: - StatQuest on Youtube - Julia Silge’s tidy tuesday - Tidy modeling with R"
+  },
+  {
+    "objectID": "01_introduction.html",
+    "href": "01_introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "The art of prediction has permeated every realm of human interest. From forecasting the weather, stock prices, and population growth to assessing couples’ compatibility, humanity’s desire to find certainty in the future is undeniable. It is this very desire that has led to the creation of data mining and machine learning.\nData mining refers to the art and science of intelligent analysis (Williams 2011). Through this process, intrinsic relationships, patterns, and knowledge embedded within the data are uncovered.\n\n\n\n\nWilliams, G. 2011. Data Mining with Rattle and r. Springer. https://link.springer.com/book/10.1007/978-1-4419-9890-3."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Williams, G. 2011. Data Mining with Rattle and r. Springer. https://link.springer.com/book/10.1007/978-1-4419-9890-3."
+  }
+]
