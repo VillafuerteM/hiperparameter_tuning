@@ -1,0 +1,17 @@
+# Exploratory Analysis {#sec-eda .unnumbered}
+
+For this project, we will be using the data from from the California Housing dataset included in the scikit-learn library. The dataset contains 20,640 observations on housing prices in California. The dataset has 8 features and 1 target variable. The features are as follows:
+
+1.  MedInc: Median Income
+2.  HouseAge: Median House Age
+3.  AveRooms: Average Number of Rooms
+4.  AveBedrms: Average Number of Bedrooms
+5.  Population: Population
+6.  AveOccup: Average Occupancy
+7.  Latitude: Latitude
+8.  Longitude: Longitude
+
+The target variable is:
+
+1.  MedHouseVal: Median House Value
+
