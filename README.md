@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Hiperparameter Tuning Techniques
 
 \## Objective This project aims to compare different methods for
