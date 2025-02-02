@@ -7,13 +7,16 @@ book:
   chapters:
     - index.qmd
     - 01_introduction.qmd
+    - 02_eda.qmd
+    - 03_grid_search.qmd
+    - 04_random_search.qmd
+    - 05_bayesian_optim.qmd
     - references.qmd
 
 bibliography: references.bib
 
 format: 
   html:
-    output-dir: ../../../../docs
     toc: TRUE
     embed-resources: TRUE
     theme: flatly
@@ -26,8 +29,6 @@ format:
             line-height: 2;
           }
         </style>
-  pdf:
-    documentclass: scrreprt
 
 editor: visual
 

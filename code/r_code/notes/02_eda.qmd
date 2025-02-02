@@ -1,5 +1,6 @@
-# Exploratory Analysis {#sec-eda .unnumbered}
-
+---
+title: "Exploratory Analysis"
+---
 For this project, we will be using the data from from the California Housing dataset included in the scikit-learn library. The dataset contains 20,640 observations on housing prices in California. The dataset has 8 features and 1 target variable. The features are as follows:
 
 1.  MedInc: Median Income

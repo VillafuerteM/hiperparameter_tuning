@@ -1,5 +1,6 @@
-# Introduction {#sec-introduction .unnumbered}
-
+---
+title: "Introduction"
+---
 The art of prediction has permeated every realm of human interest. From forecasting the weather, stock prices, and population growth to assessing couples' compatibility, humanity's desire to find certainty in the future is undeniable. It is this very desire that has led to the creation of data mining and machine learning.
 
 Data mining refers to the art and science of intelligent analysis [@graham2011dmining]. Through this process, intrinsic relationships, patterns, and knowledge embedded within the data are uncovered.
