@@ -1,0 +1,33 @@
+project:
+  type: book
+
+book:
+  title: "Hyperparameter Tuning Techniques"
+  author: "Mariano Villafuerte"
+  chapters:
+    - index.qmd
+    - 01_introduction.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format: 
+  html:
+    output-dir: ../../../../docs
+    toc: TRUE
+    embed-resources: TRUE
+    theme: flatly
+    lang: en
+    font-size: 1.1em
+    include-in-header: 
+    - text: |
+        <style>
+          body { 
+            line-height: 2;
+          }
+        </style>
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
