@@ -1,6 +1,6 @@
 # Hiperparameter Tuning Techniques
 
-\## Objective This project aims to compare different methods for
+## Objective This project aims to compare different methods for
 hiperparameter tuning for different models. Specifically, we will
 compare the following methods: - Grid Search - Random Search - Bayesian
 Optimization - Genetic Algorithm
